@@ -147,6 +147,13 @@ h3 {
   font-size: 1.15rem;
 }
 
+.language-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
 .actions {
   display: flex;
   flex-wrap: wrap;
@@ -422,4 +429,3 @@ h3 {
     display: block;
   }
 }
-
